@@ -61,6 +61,11 @@ Extras for different features:
 Showcase
 --------
 
+.. note::
+   If you don't familiar with rest frameworks or Django iteslf,
+   see our :doc:`single-file application <structure/micro-framework>`
+   or :doc:`expanded example for beginners <expanded_examples/first-app>`.
+
 Let's see the basics and learn how to use ``dmr`` in a single example:
 
 .. tabs::
